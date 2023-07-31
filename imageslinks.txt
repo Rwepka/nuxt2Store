@@ -1,0 +1,4 @@
+cats: https://img.like.video/eu_live/3u1/1X0q6q.jpg,
+dogs: https://cf.broadsheet.ie/wp-content/uploads/2018/12/cute-dog-haircut18.jpg,
+wolfs: https://cdn1.flamp.ru/e782fc945f2a6d22d71003243dbc040a_300_300.jpg,
+bulls: https://resources.cryptocompare.com/news/5/11445114.jpeg
